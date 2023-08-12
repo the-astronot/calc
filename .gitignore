@@ -1,0 +1,3 @@
+*.wksp
+.venv/
+__pycache__
